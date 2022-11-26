@@ -86,10 +86,6 @@ Once done, everything will look like this:
 
  ![Image deactivate](img/dashboard.png)
 
-
-
-
-
 Feel free to edit the sketch, to improve the functionalities and to send pull requests.
 
 Readme template taken from [here](https://github.com/bremme/arduino-project/blob/master/README.md)

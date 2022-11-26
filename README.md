@@ -42,6 +42,8 @@ Altro software necessario:
 
 # Cablaggio
 
+![Image deactivate](img/wiring.png)
+
 # Utilizzo
 
 Registrati sul sito di Influx DB Cloud, crea un bucket e genera una chiave API per permettere il caricamento dei dati.
