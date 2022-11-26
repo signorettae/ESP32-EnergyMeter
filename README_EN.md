@@ -1,6 +1,6 @@
 # ESP32 Energy Meter - EN
 
-For the Italian version click [here](README.md)
+Per la versione in italiano clicca [qui](README.md).
 
 This is a brief introduction to my project published on [ElettronicaIN #269](https://futuranet.it/prodotto/n-269-novembre-2022/).
 
