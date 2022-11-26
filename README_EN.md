@@ -42,7 +42,7 @@ Other software needed:
 
 # Wiring
 
-![Image deactivate](img/Wiring.png)
+![Image deactivate](img/wiring.png)
 
 # Usage
 
@@ -84,7 +84,7 @@ Upload the sketch to your board and move to Influx Db Cloud website to create an
 
 Once done, everything will look like this:
 
- ![Image deactivate](img/dashboard.png)
+![Image deactivate](img/dashboard.png)
 
 Feel free to edit the sketch, to improve the functionalities and to send pull requests.
 
