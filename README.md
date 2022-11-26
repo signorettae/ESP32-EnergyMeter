@@ -2,7 +2,7 @@
 
 Per la versione in inglese clicca [qui](README_EN.md)
 
-Questa è una piccola introduzione al mio progetto pubblicato su [ElettronicaIN #269]([N. 269 - Novembre 2022 - FuturaShop](https://futuranet.it/prodotto/n-269-novembre-2022/).
+Questa è una piccola introduzione al mio progetto pubblicato su [ElettronicaIN #269](https://futuranet.it/prodotto/n-269-novembre-2022/).
 
 Questo progetto è un semplice rilevatore dei consumi basato su una scheda ESP32, un sensore PZEM004 e il servizio di InfluxDb Cloud.
 
@@ -22,7 +22,7 @@ Questo progetto è un semplice rilevatore dei consumi basato su una scheda ESP32
 
 # Software
 
-Lo sketch e la libreria Every possono essere scaricati [qui]([N. 269 - Novembre 2022 - FuturaShop](https://futuranet.it/prodotto/n-269-novembre-2022/#tab-tab_contenuti)) (è necessario essere registrati al sito).
+Lo sketch e la libreria Every possono essere scaricati [qui](https://futuranet.it/prodotto/n-269-novembre-2022/#tab-tab_contenuti) (è necessario essere registrati al sito).
 
 Altro software necessario:
 
@@ -32,17 +32,15 @@ Altro software necessario:
 
 - La libreria WiFiMulti(Per gestire la connettività wireless)
 
-- La libreria [ArduinoOTA]([arduino-esp32/libraries/ArduinoOTA at master · espressif/arduino-esp32 · GitHub](https://github.com/espressif/arduino-esp32/tree/master/libraries/ArduinoOTA), WiFiUdp e ESPmDNS (Per gestire il caricamento degli sketch via OTA-)
+- La libreria [ArduinoOTA](https://github.com/espressif/arduino-esp32/tree/master/libraries/ArduinoOTA), WiFiUdp e ESPmDNS (Per gestire il caricamento degli sketch via OTA-)
 
-- Le librerie [InfluxDbClient e InfluxDbCloud]([GitHub - tobiasschuerg/InfluxDB-Client-for-Arduino: Simple library for sending measurements to an InfluxDB with a single network request. Supports ESP8266 and ESP32.](https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino)) (per gestire l'upload dei dati verso i server di Influx DB Cloud)
+- Le librerie [InfluxDbClient e InfluxDbCloud](https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino) (per gestire l'upload dei dati verso i server di Influx DB Cloud)
 
-- La libreria [PZEM004Tv30]([GitHub - mandulaj/PZEM-004T-v30: Arduino library for the Updated PZEM-004T v3.0 Power and Energy meter](https://github.com/mandulaj/PZEM-004T-v30)) (Per gestire la comunicazione seriale tra l'ESP32 e il sensore)
+- La libreria [PZEM004Tv30](https://github.com/mandulaj/PZEM-004T-v30) (Per gestire la comunicazione seriale tra l'ESP32 e il sensore)
 
-- [Python v2.7]([Python 2.7.0 Release | Python.org](https://www.python.org/download/releases/2.7/)) installato sul tuo computer per caricare gli sketch via OTA.
+- [Python v2.7](https://www.python.org/download/releases/2.7/) installato sul tuo computer per caricare gli sketch via OTA.
 
 # Cablaggio
-
-![Image deactivate](img/Wiring.png)
 
 # Utilizzo
 
@@ -87,4 +85,4 @@ Una volta fatto, tutto apparirà come nella foto di seguito:
 
 Sentiti libero di editare lo sketch, di migliorarne le funzionalità e di inviare delle pull requests.
 
-Il template per del file README è stato preso da [qui]([arduino-project/README.md at master · bremme/arduino-project · GitHub](https://github.com/bremme/arduino-project/blob/master/README.md))
+Il template per del file README è stato preso da [qui](https://github.com/bremme/arduino-project/blob/master/README.md)
