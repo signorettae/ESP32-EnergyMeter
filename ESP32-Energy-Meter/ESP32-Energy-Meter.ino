@@ -131,10 +131,6 @@ void setup() {
   sensor.addTag("Dispositivo", DEVICE);
 
 
-
-
-  //sensor.addTag("SSID", WiFi.SSID());
-
   // Accurate time is necessary for certificate validation and writing in batches
   // For the fastest time sync find NTP servers in your area: https://www.pool.ntp.org/zone/
   // Syncing progress and the time will be printed to Serial.
